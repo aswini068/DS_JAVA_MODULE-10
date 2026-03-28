@@ -11,12 +11,7 @@ To design and implement a java program that constructs a binary tree from given 
 5. Print the total number of nodes in the left subtree.   
 
 ## Program:
-```JAVA
-/*
-Program to constructs a binary tree from given level order input and counts the number of nodes 
-Developed by: HARIHARAN M
-RegisterNumber: 212224100019
-*/
+```
 import java.util.*;
 
 class Node {
